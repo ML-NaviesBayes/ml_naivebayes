@@ -1,0 +1,15 @@
+{
+    "name": "hoangcode/lib",
+    "type": "project",
+    "license": "hoangcode",
+    "authors": [
+        {
+            "name": "hoangcodeit",
+            "email": "hoangcodeit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}
